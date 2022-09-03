@@ -14,4 +14,14 @@ public class Sample {
 
 		System.out.println("Tester");
 	}
+//<<<<<<< HEAD
+	
+//=======
+private void empSalary() {
+
+	System.out.println("12000");
+	}
+//>>>>>>> 9672418804d04fc14552d2f9e02a1355a602104d
+
 }
+
